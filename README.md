@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fabiosi
-- 👀 I’m interested in informations systens, developer and hardware
+- 👀 I’m Graduete in informations systens, developer and hardware
 - 🌱 I’m currently learning Java and web developing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
